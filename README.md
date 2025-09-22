@@ -8,13 +8,14 @@
     <STYLE>
         .sidebar{
             width: 300px;
-            background: lightpink;
+            background: gray;
             color: #fff;
             padding: 30px 20px;
             box-sizing: border-box;
             height: 870px;
             color: black;
             margin: 10px;
+            color: white;
 
         }
         label{
@@ -79,7 +80,7 @@
     <span id="email">jyoti.singh07003@gmail.com</span><br>
 
     <label for="address">&#127968;</label>
-    <span id="address">1884D/139 gali Number 126, tri Nagar, Delhi 110035  </span>
+    <span id="address">tri Nagar, Delhi 110035  </span>
     </p>
 
     <h2>Education</h2>
